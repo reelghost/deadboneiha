@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deadboneiha
 - 👀 I’m interested in web development and software development
 - 🌱 I’m currently learning full-stack development
-- 💞️ I’m cureently a pro in web automation, web scraping mainly with selenium
+- 💞️ I’m currently a pro in web automation, web scraping mainly with Python and JavaScript
 - 📫 Reach me through whatsapp +254773216377
 
 <!---
