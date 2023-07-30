@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and software development
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m currently a pro in web automation, web scraping mainly with Python and JavaScript
-- 📫 Reach me through whatsapp +254773216377
+- 📫 Reach me through whatsapp +254799996442
 
 <!---
 deadboneiha/deadboneiha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
